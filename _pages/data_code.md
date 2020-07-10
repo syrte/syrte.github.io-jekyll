@@ -12,7 +12,8 @@ redirect_from:
 
 ### Tools
 
-- [**handy**](https://github.com/syrte/handy): Personal Python library for statistics, computation, and plotting. Functions that are missed in Scipy and Matplotlib.
+- [**handy**](https://github.com/syrte/handy): Personal Python library for statistics, computation, and plotting.
+<!-- Functions that are missed in Scipy and Matplotlib. -->
 - [**fortio**](https://github.com/syrte/fortio): A Python IO for Fortran Unformatted Binary Files with Variable-Length Records.
 - [**cyper**](https://github.com/syrte/cyper): Cython performed inline: compile and run your Cython snippets on the fly.
 - [**robustgp**](https://github.com/syrte/robustgp): Robust Gaussian process [coming soon].
@@ -24,9 +25,5 @@ I have also contributed *un petit peu* to various open source projects, includin
 ### Data
 
 - [**Milky Way mass profile and satellite kinematics**](https://github.com/syrte/mw_sats_kin)
-
-  Supplementary data tables for arxiv:1912.02086
-
-  The repository includes four table files, including
-  the inferred MW mass profile and its covariance matrix,
-  the original measurements and the posterior kinematics of MW satellite galaxies.
+  Supplementary data tables for [arxiv:1912.02086](https://ui.adsabs.harvard.edu/abs/2020ApJ...894...10L)  
+  The repository includes four table files, including the inferred MW mass profile and its covariance matrix, the original measurements and the posterior kinematics of MW satellite galaxies.
