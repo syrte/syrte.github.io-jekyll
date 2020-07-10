@@ -12,4 +12,4 @@ My research is focused on the dynamics and formation of cosmic structures, from 
 
 Keywords: structure formation, local group, dynamics, cosmological simulation, statistics, dark matter halo
 
-Publications: [**ADS**](https://ui.adsabs.harvard.edu/user/libraries/l0TJrdikTO2CV1d6Np3abA), [**Google scholar**](https://scholar.google.com/citations?user=RxQHlEcAAAAJ)
+Publications: [**ADS**](https://ui.adsabs.harvard.edu/public-libraries/l0TJrdikTO2CV1d6Np3abA), [**Google scholar**](https://scholar.google.com/citations?user=RxQHlEcAAAAJ)
