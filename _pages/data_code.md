@@ -24,6 +24,6 @@ I have also contributed *un petit peu* to various open source projects, includin
 
 ### Data
 
-- [**Milky Way mass profile and satellite kinematics**](https://github.com/syrte/mw_sats_kin)
+- [**Milky Way mass profile and satellite kinematics**](https://github.com/syrte/mw_sats_kin)  
   Supplementary data tables for [arxiv:1912.02086](https://ui.adsabs.harvard.edu/abs/2020ApJ...894...10L)  
   The repository includes four table files, including the inferred MW mass profile and its covariance matrix, the original measurements and the posterior kinematics of MW satellite galaxies.
