@@ -1,6 +1,6 @@
 My personal homepage.
 
-The repo is forked from https://github.com/academicpages/academicpages.github.io.
+The repo is forked from https://github.com/academicpages/academicpages.github.io
 
 ----
 
