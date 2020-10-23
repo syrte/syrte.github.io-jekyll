@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
 
   - title: "Data and Code"
     url: /data-code/
