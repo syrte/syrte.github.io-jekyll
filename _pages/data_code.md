@@ -1,14 +1,11 @@
 ---
-layout: archive
 permalink: /data-code/
 title: "Data and Code"
 author_profile: true
 redirect_from: 
-  - /data-code
+  - /data-code/
   - /data-code.html
 ---
-
-{% include base_path %}
 
 ### Tools
 
