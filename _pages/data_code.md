@@ -12,11 +12,11 @@ redirect_from:
 <!-- Functions that are missed in Scipy and Matplotlib. -->
 - [**fortio**](https://github.com/syrte/fortio): A Python IO for Fortran Unformatted Binary Files with Variable-Length Records.
 - [**cyper**](https://github.com/syrte/cyper): Cython performed inline: compile and run your Cython snippets on the fly.
-- [**robustgp**](https://github.com/syrte/robustgp): Robust Gaussian process [coming soon].
+- [**robustgp**](https://github.com/syrte/robustgp): Robust Gaussian process.
 - [*ndtest*](https://github.com/syrte/ndtest): Multi-dimensional statistical test with python
 - [*scitextool*](https://github.com/syrte/scitextool): Some routines for the preparation of astronomy paper submissions.
 
-I have also contributed *un petit peu* to various open source projects, including Numpy, Scipy, Cython, [adstex](https://github.com/yymao/adstex), [sharedmem](https://github.com/rainwoodman/sharedmem).
+I am also an (occasional) contributor to various open source projects, including Numpy, Scipy, Cython, [adstex](https://github.com/yymao/adstex), [sharedmem](https://github.com/rainwoodman/sharedmem), [gala](https://github.com/adrn/gala).
 
 ### Data
 
