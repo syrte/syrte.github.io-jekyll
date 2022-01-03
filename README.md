@@ -1,6 +1,6 @@
-My personal homepage.
+My personal homepage https://syrte.github.io/
 
-The repo is forked from https://github.com/academicpages/academicpages.github.io
+The repo was originally forked from https://github.com/academicpages/academicpages.github.io
 
 ----
 
