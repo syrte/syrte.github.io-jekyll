@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Home"
-excerpt: "Home"
+title: "Zhaozhou Li (李昭洲, Zhao-Zhou Li)"
+excerpt: "Zhaozhou Li (李昭洲, Zhao-Zhou Li)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Zhaozhou Li (李昭洲, Zhao-Zhou Li)
 
 
 Structure formation has been a central topic of astrophysics in last several decades.
@@ -26,7 +24,7 @@ and in reverse, what can we learn about their formation history and physics ther
 To explore these questions, I largely use the **cosmological simulations**, **dynamical modeling**, **statistics**, and **machine learning** to bridge the theories and observations.
 
 
-Keywords: structure formation, local group, dynamics, cosmological simulation, statistics, dark matter halo
+<!-- Keywords: structure formation, local group, dynamics, cosmological simulation, statistics, dark matter halo -->
 
 Publications: 
 [**ADS**](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&p_=0&q=%3Dauthor%3A%22Li%2C%20Zhao-Zhou%22%20OR%20%3Dauthor%3A%22Li%2C%20Zhaozhou%22&sort=date%20desc%2C%20bibcode%20desc), 
