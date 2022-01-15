@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Zhaozhou Li (李昭洲, Zhao-Zhou Li)"
-excerpt: "Zhaozhou Li (李昭洲, Zhao-Zhou Li)"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Zhaozhou Li (Chinese: 李昭洲, Pinyin: Zhao-Zhou Li)
 
 
 Structure formation has been a central topic of astrophysics in last several decades.
