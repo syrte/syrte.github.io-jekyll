@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Home"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,21 @@ redirect_from:
 
 Zhaozhou Li (李昭洲, Zhao-Zhou Li)
 
-My research is focused on the dynamics and formation of cosmic structures, from the local group to distant galaxy clusters. I'm curious about how the structures are shaped into their current status, and in reverse how we can learn about the initial condition, formation history and physics therein from present observations, especially the dynamics. To explore these questions, I mainly use the simulations and statistics to bridge the theory and observation.
+
+Structure formation has been a central topic of astrophysics in last several decades.
+In the era of large sky surveys, the increasing availability of astrometric and spectroscopic data
+allows us to study cosmic structures in phase space from a perspective of dynamics.
+<!-- The phase space has encoded abundant information. -->
+Accordingly, decoding the observation requires
+a theoretical understanding of the dynamics and appropriate techniques of modeling and analyzing.
+
+My research focuses on the **dynamics and formation of cosmic structures**, 
+from the **Milky Way** and the **Local Group** to distant **galaxy clusters**. 
+I'm curious about how the cosmic structures are shaped into their current status, 
+what is the role of baryons, mergers and environmental effects,
+and in reverse, what can we learn about their formation history and physics therein from the observation, especially from the dynamics. 
+To explore these questions, I largely use the **cosmological simulations**, **dynamical modeling**, **statistics**, and **machine learning** to bridge the theories and observations.
+
 
 Keywords: structure formation, local group, dynamics, cosmological simulation, statistics, dark matter halo
 
